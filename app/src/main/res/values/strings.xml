@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StrudentSchedule</string>
+    <string name="Login">Login</string>
 </resources>
