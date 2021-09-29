@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StrudentSchedule.iml" filepath="$PROJECT_DIR$/.idea/modules/StrudentSchedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StrudentSchedule.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StrudentSchedule.app.iml" />
+    </modules>
+  </component>
+</project>
